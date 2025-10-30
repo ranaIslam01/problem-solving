@@ -40,4 +40,4 @@ function capitalize(input){
 
 }
 console.log(capitalize("rana islam"));
-
+ 
